@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="newton" id="0" name="DateTagLibTests" package="trip.planner" tests="1" time="0.237" timestamp="2012-03-12T22:20:07">
+      <properties />
+
+      <testcase classname="trip.planner.DateTagLibTests" name="testThisYear" time="0.222" />
+
+      <system-out><![CDATA[--Output from testThisYear--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testThisYear--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
